@@ -1,4 +1,4 @@
-# Udacity free course: Programming fundamentals with Python
+# Udacity: Programming fundamentals with Python
 
 1) Introduction: Loops, conditionals
 2) Functions

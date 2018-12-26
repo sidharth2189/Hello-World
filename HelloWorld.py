@@ -1,4 +1,4 @@
-# A unction where the string
+# A function where the string
 # "Hello World!" is returned exactly
 # 5 times, where each sentence is separated by a single space.
 # and the string is returned with "return".
